@@ -4,7 +4,7 @@ import './style.css';
 function component() {
   const element = document.createElement('div');
 
-  element.textContent = 'WEBPACK CONFIG SETUP !!!!!'
+  element.textContent = 'WEBPACK CONFIG SETUP'
 
   return element;
 }
